@@ -12,6 +12,8 @@ This project implements a real-time computer vision system using an OpenMV camer
 
 The system detects red objects within the camera frame, calculates their position, and outputs bounding box and center coordinates. The project was developed as part of the Cyber Physical Systems module at Technische Universität Berlin.
 
+This project was developed as part of the Cyber Physical Systems module at Technische Universität Berlin, where the focus was on implementing computer vision systems for embedded applications.
+
 ## Features
 
 - Real-time object detection
