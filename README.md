@@ -39,6 +39,10 @@ For each detected object, the system:
 This output can be used for robotic systems or further processing (e.g. ROS integration).
 
 
+## Example Output
+BOX: 120 80 45 50 CENTER: 142 105
+
+
 ## Learning Outcomes
 
 Through this project, I gained practical experience in:
@@ -56,4 +60,4 @@ Arsam Dilmaghani
 Bachelor of Science in Computer Science  
 Technische Universität Berlin
 
-## Example Output
+
