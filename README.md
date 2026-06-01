@@ -2,6 +2,10 @@
 Real-time red object detection and tracking using OpenMV and Python.
 # OpenMV Red Object Tracking
 
+## Project Summary
+
+Real-time computer vision system for object detection and tracking using OpenMV camera and Python.
+
 ## Overview
 
 This project implements a real-time computer vision system using an OpenMV camera and Python.
@@ -24,6 +28,19 @@ The system detects red objects within the camera frame, calculates their positio
 - Computer Vision
 - Embedded Systems
 - Image Processing
+
+## System Demo
+
+The system runs in real-time on an OpenMV camera and detects red objects within the camera frame.
+
+Detected objects are highlighted with bounding boxes and their center coordinates are printed in real-time output.
+
+## Expected Behavior
+
+- The camera detects red-colored objects in the scene
+- A bounding box is drawn around detected objects
+- The center coordinates are continuously printed
+- The system operates in real-time with stable FPS
 
 ## How It Works
 
